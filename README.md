@@ -108,13 +108,13 @@
 
     <section class="contact" id="contact">
         <h2>Contact Me</h2>
-        <p>Email: yourname@example.com</p>
-        <p>Phone: +123 456 7890</p>
+        <p>Email: Supyaekyaw777@gmail.com</p>
+        <p>Phone: +447931897111</p>
         <p>Instagram: <a href="#" target="_blank">instagram.com/yourname</a></p>
     </section>
 
     <footer>
-        &copy; 2025 Your Name. All rights reserved.
+        &copy; 2025 Su Pyae Kyaw . All rights reserved.
     </footer>
 </body>
 </html>
